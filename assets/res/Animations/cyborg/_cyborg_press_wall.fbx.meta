@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d081680c-3e9f-4ea1-81a5-7a4ed84ddab6",
+  "files": [],
+  "subMetas": {
+    "ff945": {
+      "importer": "gltf-animation",
+      "uuid": "d081680c-3e9f-4ea1-81a5-7a4ed84ddab6@ff945",
+      "displayName": "",
+      "id": "ff945",
+      "name": "rig|press_wall.animation",
+      "ver": "1.0.13",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      }
+    },
+    "d2ab6": {
+      "importer": "gltf-scene",
+      "uuid": "d081680c-3e9f-4ea1-81a5-7a4ed84ddab6@d2ab6",
+      "displayName": "",
+      "id": "d2ab6",
+      "name": "_cyborg_press_wall.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "rig|press_wall",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "rig|press_wall",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d081680c-3e9f-4ea1-81a5-7a4ed84ddab6@d2ab6",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d081680c-3e9f-4ea1-81a5-7a4ed84ddab6@d2ab6"
+      ]
+    }
+  }
+}

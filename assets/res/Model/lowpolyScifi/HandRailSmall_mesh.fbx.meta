@@ -1,0 +1,92 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bdbaf0cd-30d4-4174-badb-7046c432c59c",
+  "files": [],
+  "subMetas": {
+    "2417a": {
+      "importer": "gltf-mesh",
+      "uuid": "bdbaf0cd-30d4-4174-badb-7046c432c59c@2417a",
+      "displayName": "",
+      "id": "2417a",
+      "name": "HandRailSmall_mesh.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "fa660": {
+      "importer": "gltf-material",
+      "uuid": "bdbaf0cd-30d4-4174-badb-7046c432c59c@fa660",
+      "displayName": "",
+      "id": "fa660",
+      "name": "GLASS_mat.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "9e849": {
+      "importer": "gltf-material",
+      "uuid": "bdbaf0cd-30d4-4174-badb-7046c432c59c@9e849",
+      "displayName": "",
+      "id": "9e849",
+      "name": "GREY_mat.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "f5435": {
+      "importer": "gltf-scene",
+      "uuid": "bdbaf0cd-30d4-4174-badb-7046c432c59c@f5435",
+      "displayName": "",
+      "id": "f5435",
+      "name": "HandRailSmall_mesh.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "bdbaf0cd-30d4-4174-badb-7046c432c59c@f5435",
+    "assetFinder": {
+      "meshes": [
+        "bdbaf0cd-30d4-4174-badb-7046c432c59c@2417a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bdbaf0cd-30d4-4174-badb-7046c432c59c@fa660",
+        "bdbaf0cd-30d4-4174-badb-7046c432c59c@9e849"
+      ],
+      "scenes": [
+        "bdbaf0cd-30d4-4174-badb-7046c432c59c@f5435"
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f269ff55-2f8a-4f8d-820d-b7890a2a4de9",
+  "files": [],
+  "subMetas": {
+    "92c90": {
+      "importer": "gltf-mesh",
+      "uuid": "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@92c90",
+      "displayName": "",
+      "id": "92c90",
+      "name": "CeilingLampA_mesh.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "b2fe5": {
+      "importer": "gltf-material",
+      "uuid": "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@b2fe5",
+      "displayName": "",
+      "id": "b2fe5",
+      "name": "BLACK_mat.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d6a30": {
+      "importer": "gltf-material",
+      "uuid": "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@d6a30",
+      "displayName": "",
+      "id": "d6a30",
+      "name": "WHITE_LIGHT_mat.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "24bf8": {
+      "importer": "gltf-scene",
+      "uuid": "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@24bf8",
+      "displayName": "",
+      "id": "24bf8",
+      "name": "CeilingLampA_mesh.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@24bf8",
+    "assetFinder": {
+      "meshes": [
+        "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@92c90"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@b2fe5",
+        "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@d6a30"
+      ],
+      "scenes": [
+        "f269ff55-2f8a-4f8d-820d-b7890a2a4de9@24bf8"
+      ]
+    }
+  }
+}

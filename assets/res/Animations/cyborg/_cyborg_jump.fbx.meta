@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "77ff91be-5b18-46a5-982b-e3b27eddaa6a",
+  "files": [],
+  "subMetas": {
+    "94566": {
+      "importer": "gltf-scene",
+      "uuid": "77ff91be-5b18-46a5-982b-e3b27eddaa6a@94566",
+      "displayName": "",
+      "id": "94566",
+      "name": "_cyborg_jump.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "cfe02": {
+      "importer": "gltf-animation",
+      "uuid": "77ff91be-5b18-46a5-982b-e3b27eddaa6a@cfe02",
+      "displayName": "",
+      "id": "cfe02",
+      "name": "rig|jump.animation",
+      "ver": "1.0.13",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "rig|jump",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "rig|jump",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "77ff91be-5b18-46a5-982b-e3b27eddaa6a@94566",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "77ff91be-5b18-46a5-982b-e3b27eddaa6a@94566"
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "753ecdc2-7bfd-435b-bc79-b007769abe54",
+  "files": [],
+  "subMetas": {
+    "20690": {
+      "importer": "gltf-scene",
+      "uuid": "753ecdc2-7bfd-435b-bc79-b007769abe54@20690",
+      "displayName": "",
+      "id": "20690",
+      "name": "_cyborg_jumpDown.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "0ecab": {
+      "importer": "gltf-animation",
+      "uuid": "753ecdc2-7bfd-435b-bc79-b007769abe54@0ecab",
+      "displayName": "",
+      "id": "0ecab",
+      "name": "rig|jumpDown.animation",
+      "ver": "1.0.13",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.625
+        },
+        "events": []
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "rig|jump",
+        "duration": 0.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "rig|jumpDown",
+            "from": 0,
+            "to": 0.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "753ecdc2-7bfd-435b-bc79-b007769abe54@20690",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "753ecdc2-7bfd-435b-bc79-b007769abe54@20690"
+      ]
+    }
+  }
+}

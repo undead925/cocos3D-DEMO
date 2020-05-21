@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.PhysicMaterial",
+  "_name": "",
+  "_objFlags": 1,
+  "_native": "",
+  "_friction": 0.03,
+  "_restitution": 0
+}

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9537b198-4fe0-4bb3-887b-9e99c37440ba",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9537b198-4fe0-4bb3-887b-9e99c37440ba@6c48a",
+      "displayName": "mecha",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9537b198-4fe0-4bb3-887b-9e99c37440ba"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "9537b198-4fe0-4bb3-887b-9e99c37440ba@6c48a"
+  }
+}
